@@ -1,0 +1,8 @@
+.settings
+target
+.project
+.classpath
+pom.properties
+.idea
+*.iml
+rebel.xml
